@@ -1,0 +1,11 @@
+D:\Graphics\Ryabov_3413\obj\Debug\Ryabov_3413.csproj.AssemblyReference.cache
+D:\Graphics\Ryabov_3413\obj\Debug\Ryabov_3413.csproj.SuggestedBindingRedirects.cache
+D:\Graphics\Ryabov_3413\obj\Debug\Ryabov_3413.Form1.resources
+D:\Graphics\Ryabov_3413\obj\Debug\Ryabov_3413.Properties.Resources.resources
+D:\Graphics\Ryabov_3413\obj\Debug\Ryabov_3413.csproj.GenerateResource.cache
+D:\Graphics\Ryabov_3413\obj\Debug\Ryabov_3413.csproj.CoreCompileInputs.cache
+D:\Graphics\Ryabov_3413\bin\Debug\Ryabov_3413.exe.config
+D:\Graphics\Ryabov_3413\bin\Debug\Ryabov_3413.exe
+D:\Graphics\Ryabov_3413\bin\Debug\Ryabov_3413.pdb
+D:\Graphics\Ryabov_3413\obj\Debug\Ryabov_3413.exe
+D:\Graphics\Ryabov_3413\obj\Debug\Ryabov_3413.pdb
