@@ -1,0 +1,11 @@
+D:\Graphics\Lab5\obj\Debug\Lab5.csproj.AssemblyReference.cache
+D:\Graphics\Lab5\obj\Debug\Lab5.csproj.SuggestedBindingRedirects.cache
+D:\Graphics\Lab5\obj\Debug\Ryabov_3413.Form1.resources
+D:\Graphics\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+D:\Graphics\Lab5\obj\Debug\Lab5.csproj.GenerateResource.cache
+D:\Graphics\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+D:\Graphics\Lab5\bin\Debug\Lab5.exe.config
+D:\Graphics\Lab5\bin\Debug\Lab5.exe
+D:\Graphics\Lab5\bin\Debug\Lab5.pdb
+D:\Graphics\Lab5\obj\Debug\Lab5.exe
+D:\Graphics\Lab5\obj\Debug\Lab5.pdb
